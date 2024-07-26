@@ -1,2 +1,4 @@
 # Notebook
-This repository contains the starter files for the Notebook project
+
+## Objective
+Create a database-driven CRUD application using Blazor, Dapper, and MySQL.
